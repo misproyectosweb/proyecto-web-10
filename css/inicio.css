@@ -1,0 +1,97 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 18/07/2023, 04:51:22 PM
+    Author     : pcgc7
+*/
+
+.titulo, .subtitulo {
+    font-family: 'Montserrat Alternates', sans-serif;    
+}
+.titulo {
+    font-size: 2.5rem;
+}
+.subtitulo {
+    font-size: 1.75rem;
+}
+.bi-facebook, .bi-twitter, .bi-whatsapp,
+.bi-instagram, .bi-youtube {    
+    font-size: 1.75rem;
+}
+.imgFondo {
+    background-image: url('../imagenes/imgTaller_3.jpg');    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+    min-height: 100vh;
+}
+.colorFondo {
+    background-color: rgba(0, 0, 0, 0.4); 
+    min-height: 100vh;
+}
+
+/****************************** MEDIA QUERIES ******************************/
+
+@media screen and (min-width: 1200px) and (max-width: 1483.98px) {
+    .titulo {
+        font-size: 2rem;
+    }
+    .subtitulo {
+        font-size: 1.5rem;
+    }
+    .bi-facebook, .bi-twitter, .bi-whatsapp,
+    .bi-instagram, .bi-youtube {    
+        font-size: 1.5rem;
+    }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199.98px) {
+    .titulo {
+        font-size: 2rem;
+    }
+    .subtitulo {
+        font-size: 1.5rem;
+    }
+    .bi-facebook, .bi-twitter, .bi-whatsapp,
+    .bi-instagram, .bi-youtube {    
+        font-size: 1.5rem;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991.98px) {
+    .titulo {
+        font-size: 1.75rem;
+    }
+    .subtitulo {
+        font-size: 1.25rem;
+    }
+    .bi-facebook, .bi-twitter, .bi-whatsapp,
+    .bi-instagram, .bi-youtube {    
+        font-size: 1.25rem;
+    }
+    .w-75 {
+        width: 60%!important;
+    }    
+}
+
+@media screen and (min-width: 576px) and (max-width: 767.98px) {
+    .titulo {
+        font-size: 1.5rem;
+    }
+    .subtitulo {
+        font-size: 1.25rem;
+    }
+    .imgTaller {
+        width: 35%;
+    }
+    .bi-facebook, .bi-twitter, .bi-whatsapp,
+    .bi-instagram, .bi-youtube {    
+        font-size: 1rem;
+    }
+    .w-75 {
+        width: 50%!important;
+    } 
+}
