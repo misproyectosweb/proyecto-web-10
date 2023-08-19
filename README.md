@@ -42,8 +42,3 @@ A continuación se presentan algunas imágenes del sitio web brevemente descrito
 **==========================================================================**
 ![imgLandingPage_5](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/828757be-49c8-4238-856a-a5d5a1ed072c)
 **==========================================================================**
-![Boletin_pag 1](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/bdbb1724-6cef-4e7a-9205-e40cef91bd7a)
-**==========================================================================**
-![Boletin_pag 2](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/5a81244f-773f-4687-b708-453c1ceb8e72)
-**==========================================================================**
-![Boletin_pag 3](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/1b78d31b-609a-41ca-b595-be421d0634a3)
