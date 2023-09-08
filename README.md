@@ -23,12 +23,18 @@ La página contiene dos secciones:
 
 Para el formulario de contacto se programaron validaciones tanto del lado del cliente, implementando mensajes personalizados con clases integradas en Bootstrap, los cuales brindan acceso a las API de validación de formularios en JavaScript; así como validaciones del lado del servidor programado con el lenguaje de programación **PHP.**
 
-La información del usuario ingresada a través del formulario de contacto es enviada a una base de datos **MySQL** y una vez que el usuario presiona el botón se muestra un mensaje personalizado donde se le indica al usuario que su solicitud fue enviada con éxito
+La información del usuario ingresada en el formulario de contacto se envía a una base de datos creada en **MySQL** server utilizando la extensión **PHP Data Objects (PDO)**. Esta define una interfaz ligera y consistente para acceder a bases de datos en PHP, lo que significa que, independientemente de la base de datos que se esté utilizando, se emplean las mismas funciones para realizar consultas y obtener datos con un controlador específico.
+
+Entre otras características que permite llevar a cabo esta interfaz podemos mencionar:
+-	Se encarga de mantener la conexión a la base de datos y otro tipo de conexiones específicas como transacciones
+-	Crea instancias de la clase **PDOStatement**, la cual maneja las sentencias SQL y devuelve los resultados. 
+-	La clase **PDOException** se utiliza para manejar los errores.
 
 Como complemento, la página le ofrece al usuario dos opciones adicionales:
-
 -	Un enlace al sitio web de la empresa en donde el usuario podrá conocer más en detalle de los servicios que ofrece el taller e información adicional para su conocimiento
 -	Un enlace que le permite al usuario observar y hasta descargar un boletín informativo digital creado por la empresa con el fin de que el usuario pueda estar al tanto de noticias, consejos y más información de utilidad acerca del mundo automotriz
+
+Finalmente, se utiliza un mensaje de aviso personalizado para mostrar al usuario que su solicitud fue enviada con éxito o, por el contrario, tuvo un inconveniente y no se pudo enviar
 
 A continuación se presentan algunas imágenes del sitio web brevemente descrito anteriormente:
 
