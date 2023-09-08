@@ -38,14 +38,18 @@ Finalmente, se utiliza un mensaje de aviso personalizado para mostrar al usuario
 
 A continuación se presentan algunas imágenes del sitio web brevemente descrito anteriormente:
 
-![imgLandingPage_1](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/4bf73f28-d104-4ffc-b0f1-c0527c9a6768)
+![imgLandingPage_1](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/4937a2be-9ac7-41f7-96eb-8d0b5b679bed)
 **==========================================================================**
-![imgLandingPage_2](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/9f273ab2-a32a-4192-8df5-7c4dc58db115)
+![imgLandingPage_2](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/1fc581b6-0f66-45b7-80a1-13d8049fa443)
 **==========================================================================**
-![imgLandingPage_3](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/88366cfa-3236-4022-8bbd-a995891350dc)
+![imgLandingPage_3](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/c718e86a-e1da-4393-9198-690766442b0c)
 **==========================================================================**
-![imgLandingPage_4](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/e1a7dcec-38c5-474f-b14b-0cfe9bf1751e)
+![imgLandingPage_4](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/8370b22b-d185-4bb1-84c3-af813f334e21)
 **==========================================================================**
-![imgLandingPage_5](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/a1c167e9-fa44-42b8-b838-93f5711e9f52)
+![imgLandingPage_5](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/d14aa3b8-1354-4717-9fb4-a0a9bd0daee9)
 **==========================================================================**
-![imgLandingPage_6](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/3dcc7e9c-ece4-4fc5-ab47-b0eb346be822)
+![imgLandingPage_6](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/807995df-749e-441e-b7a7-b1db2876b623)
+**==========================================================================**
+![imgLandingPage_7](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/c11098df-f8e8-40eb-a871-c304c49df657)
+**==========================================================================**
+![imgLandingPage_8](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/15e359f1-4b80-4d90-9db2-3109a4bc68c4)
