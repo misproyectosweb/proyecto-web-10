@@ -4,23 +4,12 @@ To change this template file, choose Tools | Templates
 and open the template in the editor.
 */
 /* 
-    Created on : 18/07/2023, 04:51:22 PM
+    Created on : 23/02/2024, 12:08:07 PM
     Author     : pcgc7
 */
 
 body {
     font-family: "Roboto", sans-serif;
-}
-.imgFondo {
-    background-image: url('../imagenes/imgTaller_3.jpg');    
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center; 
-    min-height: 100vh;
-}
-.colorFondo {
-    background-color: rgba(0, 0, 0, 0.4); 
-    min-height: 100vh;
 }
 .titulo {    
     font-weight: 400;
@@ -36,17 +25,9 @@ body {
 .subtitulo {
     font-size: 1.75em;
 }
-.bi-facebook, .bi-twitter, .bi-whatsapp,
-.bi-instagram, .bi-youtube {    
-    font-size: 1.75em;
-}
 .w-75 {
-    width: 30%!important;
-}
-.w-50 {
-    width: 30%!important;
-}
-
+    width: 70%!important;
+} 
 
 /****************************** MEDIA QUERIES ******************************/
 
@@ -56,17 +37,10 @@ body {
     }
     .subtitulo {
         font-size: 1.25em;
-    }    
-    .bi-facebook, .bi-twitter, .bi-whatsapp,
-    .bi-instagram, .bi-youtube {    
-        font-size: 1.5em;
-    } 
+    }  
     .w-75 {
-        width: 30%!important;
-    }
-    .w-50 {
-        width: 30%!important;
-    }
+        width: 70%!important;
+    } 
 }
 
 @media screen and (min-width: 1200px) and (max-width: 1483.98px) {
@@ -75,17 +49,10 @@ body {
     }
     .subtitulo {
         font-size: 1.25em;
-    }
-    .bi-facebook, .bi-twitter, .bi-whatsapp,
-    .bi-instagram, .bi-youtube {    
-        font-size: 1.5em;
     } 
     .w-75 {
-        width: 35%!important;
-    }
-    .w-50 {
-        width: 30%!important;
-    }
+        width: 70%!important;
+    } 
 }
 
 @media screen and (min-width: 992px) and (max-width: 1199.98px) {
@@ -94,17 +61,10 @@ body {
     }
     .subtitulo {
         font-size: 1.25em;
-    }
-    .bi-facebook, .bi-twitter, .bi-whatsapp,
-    .bi-instagram, .bi-youtube {    
-        font-size: 1.25em;
-    }
+    } 
     .w-75 {
-        width: 40%!important;
-    }
-    .w-50 {
-        width: 30%!important;
-    }    
+        width: 70%!important;
+    }     
 }
 
 @media screen and (min-width: 768px) and (max-width: 991.98px) {
@@ -113,17 +73,10 @@ body {
     }
     .subtitulo {
         font-size: 1.25em;
-    }
-    .bi-facebook, .bi-twitter, .bi-whatsapp,
-    .bi-instagram, .bi-youtube {    
-        font-size: 1.25em;
-    }
+    }    
     .w-75 {
-        width: 45%!important;
-    }
-    .w-50 {
-        width: 30%!important;
-    }
+        width: 50%!important;
+    }       
 }
 
 @media screen and (min-width: 576px) and (max-width: 767.98px) {
@@ -132,17 +85,10 @@ body {
     }
     .subtitulo {
         font-size: 1.25em;
-    }    
-    .bi-facebook, .bi-twitter, .bi-whatsapp,
-    .bi-instagram, .bi-youtube {    
-        font-size: 1em;
-    } 
+    }        
     .w-75 {
         width: 50%!important;
-    }
-    .w-50 {
-        width: 30%!important;
-    }
+    }  
 }
 
 @media screen and (max-width: 575.98px) {
@@ -151,17 +97,10 @@ body {
     }
     .subtitulo {
         font-size: 1.25em;
-    }    
-    .bi-facebook, .bi-twitter, .bi-whatsapp,
-    .bi-instagram, .bi-youtube {    
-        font-size: 1em;
-    }
+    }        
     .w-75 {
         width: 50%!important;
-    }
-    .w-50 {
-        width: 30%!important;
-    }
+    }   
 }
 
 
