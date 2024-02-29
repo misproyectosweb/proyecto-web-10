@@ -21,7 +21,7 @@ La página contiene dos secciones:
     -	Presenta algunos de los beneficios que el cliente obtendrá al contratar los servicios del taller automotriz
     -	Muestra un botón que, al pulsarlo, le brinda acceso al sitio web del taller automotriz para que el cliente pueda conocer más acerca de la empresa
     -	Muestra un botón con un enlace para que el usuario pueda obtener el boletín mensual que pone la empresa a disposición del usuario para que conozca más información acerca del mundo automotriz
-    -	Un formulario para que el cliente pueda comunicarse con el personal encargado del taller y poder concretar una cita de servicio![msjError](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/8b8b69cd-056c-4290-8902-8dd627c46a49)
+    -	Un formulario para que el cliente pueda comunicarse con el personal encargado del taller y poder concretar una cita de servicio
 
 Para el formulario de contacto se programaron validaciones tanto del lado del cliente, implementando mensajes personalizados con clases integradas en Bootstrap, los cuales brindan acceso a las API de validación de formularios en JavaScript; así como validaciones del lado del servidor programado con el lenguaje de programación **PHP.**
 
