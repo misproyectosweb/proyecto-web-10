@@ -13,11 +13,11 @@ Esta Landing Page o página web de aterrizaje fue creada y desarrollada usando l
 
 La página contiene dos secciones:
 
-1.	La primera sección:
+- La primera sección:
     -	Presenta una pantalla donde se muestra el servicio que se está ofreciendo al cliente
     -   Muestra un botón donde redirige al cliente a la segunda sección, el cual presenta los beneficios y servicios de la empresa
 
-2.	La segunda sección:
+- La segunda sección:
     -	Presenta algunos de los beneficios que el cliente obtendrá al contratar los servicios del taller automotriz
     -	Muestra un botón que, al pulsarlo, le brinda acceso al sitio web del taller automotriz para que el cliente pueda conocer más acerca de la empresa
     -	Muestra un botón con un enlace para que el usuario pueda obtener el boletín mensual que pone la empresa a disposición del usuario para que conozca más información acerca del mundo automotriz
