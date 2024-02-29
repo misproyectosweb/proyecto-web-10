@@ -3,23 +3,25 @@ Esta es una landing page o página de aterrizaje
 
 Este proyecto fue creado con las siguientes herramientas de nivel front-end y back-end:
 
-- **HTML:**	permite crear la estructura del sitio web mediante etiquetas
-- **CSS:**	para definir y crear la presentación del sitio web
-- **JavaScript:**	añade características que permite establecer acciones interactivas al sitio web
-- **Bootstrap:**	utilizado para personalizar el sitio web y adaptarlo a la pantalla del dispositivo usado por el usuario
+- **HTML:**	Permite crear la estructura del sitio web mediante etiquetas
+- **CSS:**	Para definir y crear la presentación del sitio web
+- **Bootstrap:** Utilizado para personalizar el sitio web y adaptarlo a la pantalla del dispositivo usado por el usuario
 - **PHP:**	Favorece la conexión entre los servidores y la interfaz de usuario
+- **MySQL:** Gestor de bases de datos para almacenar los datos del usuario después de completar el formulario
 
 Esta Landing Page o página web de aterrizaje fue creada y desarrollada usando la plataforma **NetBeans 12.0.** y el archivo **index.php** es el archivo que contiene la Landing Page
 
 La página contiene dos secciones:
 
 1.	La primera sección:
-    -	Presenta una imagen que intentará convencer al cliente de que esta empresa es la mejor opción para el diagnóstico y cuidado del automóvil
+    -	Presenta una pantalla donde se muestra el servicio que se está ofreciendo al cliente
+    -   Muestra un botón donde redirige al cliente a la segunda sección, el cual presenta los beneficios y servicios de la empresa
 
 2.	La segunda sección:
     -	Presenta algunos de los beneficios que el cliente obtendrá al contratar los servicios del taller automotriz
-    -	Un enlace al sitio web del taller automotriz para que el cliente pueda conocer más acerca de la empresa
-    -	Un enlace para que el usuario pueda obtener el boletín mensual que pone la empresa a disposición del usuario para que conozca más información acerca del mundo automotriz
+    -	Muestra un botón que, al pulsarlo, le brinda acceso al sitio web del taller automotriz para que el cliente pueda conocer más acerca de la empresa
+    -	Muestra un botón con un enlace para que el usuario pueda obtener el boletín mensual que pone la empresa a disposición del usuario para que conozca más información acerca del mundo automotriz
+    -	Un formulario para que el cliente pueda comunicarse con el personal encargado del taller y poder concretar una cita de servicio![msjError](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/8b8b69cd-056c-4290-8902-8dd627c46a49)
 
 Para el formulario de contacto se programaron validaciones tanto del lado del cliente, implementando mensajes personalizados con clases integradas en Bootstrap, los cuales brindan acceso a las API de validación de formularios en JavaScript; así como validaciones del lado del servidor programado con el lenguaje de programación **PHP.**
 
@@ -30,24 +32,29 @@ Entre otras características que permite llevar a cabo esta interfaz podemos men
 -	Crea instancias de la clase **PDOStatement**, la cual maneja las sentencias SQL y devuelve los resultados. 
 -	La clase **PDOException** se utiliza para manejar los errores.
 
-Como complemento, la página le ofrece al usuario dos opciones adicionales:
--	Un enlace al sitio web de la empresa en donde el usuario podrá conocer más en detalle de los servicios que ofrece el taller e información adicional para su conocimiento
--	Un enlace que le permite al usuario observar y hasta descargar un boletín informativo digital creado por la empresa con el fin de que el usuario pueda estar al tanto de noticias, consejos y más información de utilidad acerca del mundo automotriz
-
 Finalmente, se utiliza un mensaje de aviso personalizado para mostrar al usuario que su solicitud fue enviada con éxito o, por el contrario, tuvo un inconveniente y no se pudo enviar
 
 A continuación se presentan algunas imágenes del sitio web brevemente descrito anteriormente:
 
-![imgLandingPage_1](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/4937a2be-9ac7-41f7-96eb-8d0b5b679bed)
+![03  LandingPage_01](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/699b2764-d907-4e62-87a0-db51eb728e3d)
 **==========================================================================**
-![imgLandingPage_2](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/1fc581b6-0f66-45b7-80a1-13d8049fa443)
+![03  LandingPage_02](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/a3ea9685-fba9-46bc-8cef-a8e1fe4f2973)
 **==========================================================================**
-![imgLandingPage_3](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/c718e86a-e1da-4393-9198-690766442b0c)
+![03  LandingPage_03](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/dbe782b9-c1f6-4f74-bfe0-c43b4c01fe4a)
 **==========================================================================**
-![imgLandingPage_4](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/8370b22b-d185-4bb1-84c3-af813f334e21)
+![03  LandingPage_04](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/49e1ed81-1111-4c37-9c6a-d98a128ebed4)
 **==========================================================================**
-![imgLandingPage_5](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/d14aa3b8-1354-4717-9fb4-a0a9bd0daee9)
+![imgLandingPage_7](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/92ff3812-550a-4c12-8e37-417558c1d201)
 **==========================================================================**
-![imgLandingPage_6](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/807995df-749e-441e-b7a7-b1db2876b623)
+![msjConfirmacion](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/435ad439-74f4-46e1-942c-a88f79a9918b)
 **==========================================================================**
-![imgLandingPage_7](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/c11098df-f8e8-40eb-a871-c304c49df657)
+![vistaCorreo](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/cc1a0d16-e445-4377-9187-32b3377a2640)
+**==========================================================================**
+![msjError](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/cf2c098d-c40b-4a36-bbfd-464471af8a31)
+**==========================================================================**
+
+
+
+
+
+
