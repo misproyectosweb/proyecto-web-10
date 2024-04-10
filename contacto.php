@@ -11,9 +11,7 @@
         <link rel="shortcut icon" type="image/x-icon" href="imagenes/iconotools.png"/>
                 
         <!-- Utilizando google fonts -->
-        <link href="https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300;400&display=swap" rel="stylesheet">
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300;400&display=swap" rel="stylesheet">        
         <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
 
         <!-- Utilizando Bootstrap 4 -->
@@ -76,7 +74,7 @@
                         <div class="py-4">
                             <h3 class="mb-0 subtitulo">Visítanos y conoce más de cerca nuestra empresa</h3>
                             <div class="py-4">
-                                <a class="btn btn-primary" href="https://proyectoweb-taller-01.firebaseapp.com" target="_blank" role="button">Accede a nuestro sitio web</a>                            
+                                <a class="btn btn-primary" href="#" target="_blank" role="button">Accede a nuestro sitio web</a>                            
                             </div>
                         </div>
                         <div class="pt-4">
@@ -173,7 +171,7 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js"></script>
         
         <?php
-        // put your code here
+            // put your code here
         ?>
     </body>
 </html>
