@@ -36,13 +36,15 @@ Finalmente, se utiliza un mensaje de aviso personalizado para mostrar al usuario
 
 A continuación se presentan algunas imágenes del sitio web brevemente descrito anteriormente:
 
-![03  LandingPage_01](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/699b2764-d907-4e62-87a0-db51eb728e3d)
+![03  LandingPage_01](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/0d591f4d-a299-497e-b897-a9d494edf62f)
 **==========================================================================**
-![03  LandingPage_02](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/a3ea9685-fba9-46bc-8cef-a8e1fe4f2973)
+![03  LandingPage_02](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/42e0ba31-5098-4bf4-a336-7537ba4b0bf2)
 **==========================================================================**
-![03  LandingPage_03](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/dbe782b9-c1f6-4f74-bfe0-c43b4c01fe4a)
+![03  LandingPage_03](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/d28ad5bd-6bf7-469a-b680-9171c663e1e1)
 **==========================================================================**
-![03  LandingPage_04](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/49e1ed81-1111-4c37-9c6a-d98a128ebed4)
+![03  LandingPage_04](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/1ab52aec-2034-4aec-a2eb-4d8a1c24676f)
+**==========================================================================**
+![03  LandingPage_05](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/b623c17c-4848-48fa-add5-3c3b799b06a7)
 **==========================================================================**
 ![boletinTaller](https://github.com/misproyectosweb/proyecto-web-10/assets/98922137/7d371109-5f5b-4728-b978-315e4806f9bc)
 **==========================================================================**
