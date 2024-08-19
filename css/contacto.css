@@ -8,122 +8,137 @@ and open the template in the editor.
     Author     : pcgc7
 */
 
-body {
-    font-family: "Roboto", sans-serif;
-}
-.titulo {    
-    font-weight: 400;
-    font-style: normal;   
-}
-.subtitulo {    
-    font-weight: 300;
-    font-style: normal;
-}
-.titulo {
-    font-size: 2.5em;
-}
-.subtitulo {
-    font-size: 1.75em;
-}
-.w-75 {
-    width: 70%!important;
-} 
+/* Sección beneficios */
+.w-75 { width: 60%!important; }
+.pt-5 { padding-top: 2.5em !important; }
+h1 { font-size: 2.25em; }
+h3 { font-size: 1.75em; }
+.btn-lg { font-size: 1.25em !important; }
+.py-5 { padding-top: 2.5em !important; padding-bottom: 2.5em !important; }
+
+/* Sección beneficios - formulario */
+.mb-5 { margin-bottom: 2.5em !important; }
+.p-4 { padding: 1.5em !important; }
+label { font-size: 1em; }
+.form-control { font-size: 1em }
 
 /****************************** MEDIA QUERIES ******************************/
 
-@media screen and (min-width: 1424px) and (max-width: 1647.98px) {    
-    .titulo {
-        font-size: 2.5em;
-    }
-    .subtitulo {
-        font-size: 1.25em;
-    }  
-    .w-75 {
-        width: 70%!important;
-    } 
+@media screen and (min-width: 1484px) and (max-width: 1647.98px) {    
+    
+    /* Sección beneficios */
+    .w-75 { width: 60%!important; }
+    .pt-5 { padding-top: 2.5em !important; }
+    h1 { font-size: 2.25em; }
+    h3 { font-size: 1.5em; }
+    .btn-lg { font-size: 1.25em !important; }
+    .py-5 { padding-top: 2.5em !important; padding-bottom: 2.5em !important; }
+    
+    /* Sección beneficios - formulario */
+    .mb-5 { margin-bottom: 2.5em !important; }
+    .p-4 { padding: 1.5em !important; }
+    label { font-size: 1em; }
+    .form-control { font-size: 1em }
 }
 
 @media screen and (min-width: 1200px) and (max-width: 1483.98px) {
-    .titulo {
-        font-size: 2em;
-    }
-    .subtitulo {
-        font-size: 1.25em;
-    } 
-    .w-75 {
-        width: 70%!important;
-    } 
+    
+    /* Sección beneficios */
+    .w-75 { width: 60%!important; }
+    .pt-5 { padding-top: 2em !important; }
+    h1 { font-size: 2em; }
+    h3 { font-size: 1.5em; }
+    .btn-lg { font-size: 1em !important; }
+    .py-5 { padding-top: 2em !important; padding-bottom: 2em !important; }
+    
+    /* Sección beneficios - formulario */
+    .mb-5 { margin-bottom: 2em !important; }
+    .p-4 { padding: 1.25em !important; }
+    label { font-size: 1em; }
+    .form-control { font-size: 1em }
 }
 
 @media screen and (min-width: 992px) and (max-width: 1199.98px) {
-    .titulo {
-        font-size: 2em;
-    }
-    .subtitulo {
-        font-size: 1.25em;
-    } 
-    .w-75 {
-        width: 70%!important;
-    }     
+    
+    /* Sección beneficios */
+    .w-75 { width: 60%!important; }
+    .pt-5 { padding-top: 2em !important; }
+    h1 { font-size: 1.75em; }
+    h3 { font-size: 1.25em; }
+    .btn-lg { font-size: 1em !important; }
+    .py-5 { padding-top: 2em !important; padding-bottom: 2em !important; }
+    
+    /* Sección beneficios - formulario */
+    .mb-5 { margin-bottom: 2em !important; }
+    .p-4 { padding: 1.25em !important; }
+    label { font-size: 1em; }
+    .form-control { font-size: 1em }         
 }
 
 @media screen and (min-width: 768px) and (max-width: 991.98px) {
-    .titulo {
-        font-size: 1.75em;
-    }
-    .subtitulo {
-        font-size: 1.25em;
-    }    
-    .w-75 {
-        width: 50%!important;
-    }       
+    
+    /* Sección beneficios */
+    .w-75 { width: 60%!important; }
+    .pt-5 { padding-top: 2em !important; }
+    h1 { font-size: 1.5em; }
+    h3 { font-size: 1em; }
+    .btn-lg { font-size: 0.75em !important; }
+    .py-5 { padding-top: 2em !important; padding-bottom: 2em !important; }
+    
+    /* Sección beneficios - formulario */
+    .mb-5 { margin-bottom: 2em !important; }
+    .p-4 { padding: 1.25em !important; }
+    label { font-size: 0.75em; }
+    .form-control { font-size: 0.75em }
 }
 
 @media screen and (min-width: 576px) and (max-width: 767.98px) {
-    .titulo {
-        font-size: 1.5em;
-    }
-    .subtitulo {
-        font-size: 1.25em;
-    }        
-    .w-75 {
-        width: 50%!important;
-    }  
+    
+    /* Sección beneficios */
+    .w-75 { width: 60%!important; }
+    .pt-5 { padding-top: 1.5em !important; }
+    h1 { font-size: 1.25em; }
+    h3 { font-size: 1em; }
+    .btn-lg { font-size: 0.75em !important; }
+    .py-5 { padding-top: 1.5em !important; padding-bottom: 1.5em !important; }
+    
+    /* Sección beneficios - formulario */
+    .mb-5 { margin-bottom: 1.5em !important; }
+    .p-4 { padding: 1em !important; }
+    label { font-size: 0.75em; }
+    .form-control { font-size: 0.75em }
 }
 
-@media screen and (max-width: 575.98px) {
-    .titulo {
-        font-size: 1.5em;
-    }
-    .subtitulo {
-        font-size: 1.25em;
-    }        
-    .w-75 {
-        width: 50%!important;
-    }   
+@media screen and (min-width: 481px) and (max-width: 575.98px) {
+    
+    /* Sección beneficios */
+    .w-75 { width: 60%!important; }
+    .pt-5 { padding-top: 1.5em !important; }
+    h1 { font-size: 1em; }
+    h3 { font-size: 0.75em; }
+    .btn-lg { font-size: 0.75em !important; }
+    .py-5 { padding-top: 1.5em !important; padding-bottom: 1.5em !important; }
+    
+    /* Sección beneficios - formulario */
+    .mb-5 { margin-bottom: 1.5em !important; }
+    .p-4 { padding: 1em !important; }
+    label { font-size: 0.75em; }
+    .form-control { font-size: 0.75em }
 }
 
-
-/*.roboto-light {
-  font-family: "Roboto", sans-serif;
-  font-weight: 300;
-  font-style: normal;
+@media screen and (max-width: 480px) {
+    
+    /* Sección beneficios */
+    .w-75 { width: 60%!important; }
+    .pt-5 { padding-top: 1.5em !important; }
+    h1 { font-size: 1em; }
+    h3 { font-size: 0.75em; }
+    .btn-lg { font-size: 0.75em !important; }
+    .py-5 { padding-top: 1.5em !important; padding-bottom: 1.5em !important; }
+    
+    /* Sección beneficios - formulario */
+    .mb-5 { margin-bottom: 1.5em !important; }
+    .p-4 { padding: 1em !important; }
+    label { font-size: 0.75em; }
+    .form-control { font-size: 0.75em }
 }
-
-.roboto-regular {
-  font-family: "Roboto", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
-.roboto-medium {
-  font-family: "Roboto", sans-serif;
-  font-weight: 500;
-  font-style: normal;
-}
-
-.roboto-bold {
-  font-family: "Roboto", sans-serif;
-  font-weight: 700;
-  font-style: normal;
-}*/
